@@ -15,10 +15,8 @@ int main(int argc, char *argv[]) {
 	else{
 		h=st/60;
 		r=st%60;
-		if((r/60)<60){
 		m=r/60;
 		s=r%60;
-	}
 	}
 	printf("horas:%d\nminutos:%d\nsegundos:%d\n");
 	system("PAUSE");

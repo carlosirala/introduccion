@@ -18,14 +18,14 @@ scanf("%f",&di);
 system("cls");
   if(s=='d'){
   h=p/(D*g);
-  printf("La altura es:\n %f\n",h);
   v=(3.1416)*(di/2)*(di/2)*h;
+  printf("La altura es:\n %f\n",h);
   printf("El volumen es:\n %f\n",v);
    }
   else{
   h=p/(A*g);
+   v=(3.14)*(di/2)*(di/2)*h;
   printf("La altura es:\n%f\n",h); 
-  v=(3.14)*(di/2)*(di/2)*h;
   printf("El volumen es\n %f\n",v);            
   }
   system("PAUSE");	
