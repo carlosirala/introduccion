@@ -26,5 +26,4 @@ int main(){
     control=0;
   }
   system("PAUSE");
-  return 0;
 }
