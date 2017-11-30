@@ -10,7 +10,7 @@ int main()
 {
 	float carrcil,areacil[valvulas],mas[valvulas];
 	int i,j;
-	printf("Este prgrograma le indica dadas las masas de los objetos a levantar y el \narea efectiva de la valvula y su carrera la presión adecuada.\n\n");
+	printf("Bienvenido, este prgrograma le indica dadas las masas de los objetos a levantar y el \narea efectiva de la valvula y su carrera la presión adecuada.\n");
 	for(i=0;i<valvulas;i++)
 	{
 		fflush(stdin);
